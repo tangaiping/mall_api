@@ -27,6 +27,8 @@ html = response1.text
 # except ValueError:
 #     print('------fail------')
 
+
+
 print(postdata)
 print(html)
 print(response1.status_code)
